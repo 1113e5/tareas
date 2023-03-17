@@ -1,0 +1,28 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+    border: 1px solid lightgreen ;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.movie-head{
+    font size :20px ;
+     padding: 6px 22px;
+     border radius: 10px;
+     margin-bottom:15px ;
+}
+.movie-head{
+    float: right;
+}
+.movie-text span{
+    color: orange;
+}
+.books{
+    margin: bottom 20px ;
+}
+.books hr{
+    margin-bottom: 10px;
+}
